@@ -157,7 +157,7 @@
     <header>
         <a href=""><img src="https://iili.io/F81UeyB.png" alt="Profile photo of user" class="profile-img" /></a>
         <h1>DEHA Sanfest 2025</h1>
-        <p class="tagline">Kumpulan link penting dalam satu tempat</p>
+        <p class="tagline">Temukan informasi kami disini</p>
     </header>
 
     <div class="links-container">
