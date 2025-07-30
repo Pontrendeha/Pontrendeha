@@ -246,8 +246,8 @@
                     <i class="fab fa-o"></i>
                 </div>
                 <div class="link-text">
-                    <div class="link-title">TikTok</div>
-                    <div class="link-desc">Watch my short videos</div>
+                    <div class="link-title">PENDAFTARAN PERLOMBAAN</div>
+                    <div class="link-desc">Isi google form nya disini</div>
                 </div>
             </a>
         </div>
