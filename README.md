@@ -241,7 +241,7 @@
 
         <!-- Link 7 -->
         <div class="link-item">
-            <a href="https://tiktok.com" target="_blank" class="link-btn">
+            <a href="https://bit.ly/DHSANFEST3" target="_blank" class="link-btn">
                 <div class="link-icon">
                     <i class="fab fa-o"></i>
                 </div>
