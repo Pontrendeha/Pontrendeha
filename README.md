@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DEHA Sanfest 2025</title>
+    <title>DEHA SANFEST 2025</title>
     <style>
         :root {
             --primary-bg: #121212;
