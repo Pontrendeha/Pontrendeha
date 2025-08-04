@@ -228,7 +228,7 @@
 
         <!-- Link 6 -->
         <div class="link-item">
-            <a href="https://wa.me/+6289678747567" target="_blank" class="link-btn">
+            <a href="https://wa.me/+6289678477567" target="_blank" class="link-btn">
                 <div class="link-icon">
                     <i class="fab fa-whatsapp"></i>
                 </div>
