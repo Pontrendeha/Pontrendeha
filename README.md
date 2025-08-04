@@ -251,34 +251,6 @@
                 </div>
             </a>
         </div>
-
-        <!-- Link 8 -->
-        <div class="link-item">
-            <a href="https://spotify.com" target="_blank" class="link-btn">
-                <div class="link-icon">
-                    <i class="fab fa-file"></i>
-                </div>
-                <div class="link-text">
-                    <div class="link-title">Spotify</div>
-                    <div class="link-desc">Listen to my playlists</div>
-                </div>
-            </a>
-        </div>
-
-        <!-- Link 9 -->
-        <div class="link-item">
-            <a href="https://whatsapp.com" target="_blank" class="link-btn">
-                <div class="link-icon">
-                    <i class="fab fa-file"></i>
-                </div>
-                <div class="link-text">
-                    <div class="link-title">WhatsApp</div>
-                    <div class="link-desc">Chat with me directly</div>
-                </div>
-            </a>
-        </div>
-    </div>
-
     <footer>
         © 2025 DEHA Sanfest | Dibuat oleh @ibnoeahmadrudiyat
     </footer>
