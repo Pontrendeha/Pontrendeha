@@ -163,91 +163,91 @@
     <div class="links-container">
         <!-- Link 1 -->
         <div class="link-item">
-            <a href="https://www.instagram.com/ponpesdeha/" target="_blank" class="link-btn">
+            <a href="https://bit.ly/DHSANFEST3" target="_blank" class="link-btn">
                 <div class="link-icon">
-                    <i class="fab fa-instagram"></i>
+                    <i class="fab fa-o"></i>
                 </div>
                 <div class="link-text">
-                    <div class="link-title">Instagram</div>
-                    <div class="link-desc">Temukan daily update dan konten di profil kami</div>
+                    <div class="link-title">Formulir Pendaftaran</div>
+                    <div class="link-desc">Daftarkan dirimu dengan isi formulir disini</div>
                 </div>
             </a>
         </div>
 
         <!-- Link 2 -->
         <div class="link-item">
-            <a href="https://www.youtube.com/@pontrendeha327" target="_blank" class="link-btn">
+            <a href="https://twibbo.nz/dehasanfest2025" target="_blank" class="link-btn">
                 <div class="link-icon">
-                    <i class="fab fa-youtube"></i>
+                    <i class="fab fa-o"></i>
                 </div>
                 <div class="link-text">
-                    <div class="link-title">YouTube</div>
-                    <div class="link-desc">Tonton video menarik kami disini</div>
+                    <div class="link-title">Twibon</div>
+                    <div class="link-desc">Buat twibon mu disni</div>
                 </div>
             </a>
         </div>
 
         <!-- Link 3 -->
         <div class="link-item">
-            <a href="https://www.facebook.com/share/16udZ1AUqq/" target="_blank" class="link-btn">
+            <a href="https://drive.google.com/drive/folders/1cM04m3PApUDpozlG3wRAMmGkl-h7fM0b?usp=drive_link" target="_blank" class="link-btn">
                 <div class="link-icon">
-                    <i class="fab fa-facebook"></i>
+                    <i class="fab fa-o"></i>
                 </div>
                 <div class="link-text">
-                    <div class="link-title">Facebook</div>
-                    <div class="link-desc">Lihat profil kami dan berteman</div>
+                    <div class="link-title">Buku Panduan dan Juknis</div>
+                    <div class="link-desc">Baca selengkapnya buku panduan dan juknis disini</div>
                 </div>
             </a>
         </div>
 
         <!-- Link 4 -->
         <div class="link-item">
-            <a href="https://www.tiktok.com/@ponpesdehaa?is_from_webapp=1&sender_device=pc" target="_blank" class="link-btn">
+            <a href="https://www.instagram.com/ponpesdeha/" target="_blank" class="link-btn">
                 <div class="link-icon">
-                    <i class="fab fa-tiktok"></i>
+                    <i class="fab fa-instagram"></i>
                 </div>
                 <div class="link-text">
-                    <div class="link-title">Tiktok</div>
-                    <div class="link-desc">Temukan konten menarik lainnya</div>
+                    <div class="link-title">Instagram</div>
+                    <div class="link-desc">Temui akun Instagram resmi kami disni</div>
                 </div>
             </a>
         </div>
 
         <!-- Link 5 -->
         <div class="link-item">
-            <a href="https://wa.me/6285179765659" target="_blank" class="link-btn">
+            <a href="https://www.youtube.com/@pontrendeha327" target="_blank" class="link-btn">
                 <div class="link-icon">
-                    <i class="fab fa-whatsapp"></i>
+                    <i class="fab fa-youtube"></i>
                 </div>
                 <div class="link-text">
-                    <div class="link-title">WhatsApp</div>
-                    <div class="link-desc">Hubungi admin kami</div>
+                    <div class="link-title">Youtube</div>
+                    <div class="link-desc">Temui Channel youtube kami disini</div>
                 </div>
             </a>
         </div>
 
         <!-- Link 6 -->
         <div class="link-item">
-            <a href="https://maps.app.goo.gl/5ydn6BcZsDetwrsV7" target="_blank" class="link-btn">
+            <a href="wa.me/089678747567" target="_blank" class="link-btn">
                 <div class="link-icon">
-                    <i class="fab fa-x"></i>
+                    <i class="fab fa-whatsapp"></i>
                 </div>
                 <div class="link-text">
-                    <div class="link-title">Gmaps</div>
-                    <div class="link-desc">Temukan lokasi kami disini</div>
+                    <div class="link-title">Informasi Bazar</div>
+                    <div class="link-desc">Hubungi admin kami untuk info seputar bazar</div>
                 </div>
             </a>
         </div>
 
         <!-- Link 7 -->
         <div class="link-item">
-            <a href="https://bit.ly/DHSANFEST3" target="_blank" class="link-btn">
+            <a href="wa.me/085179704137" target="_blank" class="link-btn">
                 <div class="link-icon">
-                    <i class="fab fa-o"></i>
+                    <i class="fab fa-whatsapp"></i>
                 </div>
                 <div class="link-text">
-                    <div class="link-title">PENDAFTARAN PERLOMBAAN</div>
-                    <div class="link-desc">Isi google form nya disini</div>
+                    <div class="link-title">Informasi Sponsor dan Media Partner</div>
+                    <div class="link-desc">Hubungi kami untuk seputer Sponsor dan Media partner</div>
                 </div>
             </a>
         </div>
@@ -279,5 +279,3 @@
             });
         });
     </script>
-</body>
-</html>
