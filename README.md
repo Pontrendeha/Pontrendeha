@@ -228,7 +228,7 @@
 
         <!-- Link 6 -->
         <div class="link-item">
-            <a href="wa.me/089678747567" target="_blank" class="link-btn">
+            <a href="https://wa.me/089678747567" target="_blank" class="link-btn">
                 <div class="link-icon">
                     <i class="fab fa-whatsapp"></i>
                 </div>
@@ -241,7 +241,7 @@
 
         <!-- Link 7 -->
         <div class="link-item">
-            <a href="wa.me/085179704137" target="_blank" class="link-btn">
+            <a href="https://wa.me/085179704137" target="_blank" class="link-btn">
                 <div class="link-icon">
                     <i class="fab fa-whatsapp"></i>
                 </div>
