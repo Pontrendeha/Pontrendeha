@@ -251,6 +251,19 @@
                 </div>
             </a>
         </div>
+
+                <!-- Link 8 -->
+        <div class="link-item">
+            <a href="https://wa.me/+6285811750428" target="_blank" class="link-btn">
+                <div class="link-icon">
+                    <i class="fab fa-whatsapp"></i>
+                </div>
+                <div class="link-text">
+                    <div class="link-title">Admin Deha Sanfest Season 3</div>
+                    <div class="link-desc">Hubungi kami untuk info selanjutnya</div>
+                </div>
+            </a>
+        </div>
     <footer>
         © 2025 DEHA Sanfest | Dibuat oleh @ibnoeahmadrudiyat
     </footer>
